@@ -1,0 +1,1 @@
+print("DNS Monitoring Dashboard")
